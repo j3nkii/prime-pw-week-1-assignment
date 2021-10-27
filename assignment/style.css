@@ -34,3 +34,7 @@ img {
 a:link, a:visited {
   color: white;
 }
+
+#img {
+  text-align: right;
+}
