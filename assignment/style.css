@@ -31,7 +31,6 @@ img {
 }
 /* Change the font-family of your list */
 /*see line 23 */
-.cat {
-  text-align: right;
-  margin-right: 25px;
+a:link, a:visited {
+  color: white;
 }
