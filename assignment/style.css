@@ -5,7 +5,7 @@ body {
 /* Make the header and footer a different color from the background */
 header {
   background-color: black;
-  color: yellow;
+  color: white;
 }
 footer {
   background-color: black;
@@ -19,7 +19,7 @@ h1 {
 /* Make your p tag a different color and italic */
 p {
   font-family: "Serif";
-  color: yellow;
+  color: white;
   font-style: italic;
 }
 /* Put a border around your image */
