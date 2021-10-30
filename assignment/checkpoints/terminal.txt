@@ -13,7 +13,7 @@ cd ..
 mkdir
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-folderEmpty="nothing"; folderNotEmpty="Displays contents of current folder";
+ls in an empty folder would display nothing, whereas running ls in a folder containing files, you will see the contents of that folder.
 
 # 6 - What is a quick way to create a new file?
 touch
@@ -22,11 +22,11 @@ touch
 git version 2.30.1 (Apple Git-130)
 
 # 8 - Why would you run the command 'git status'?
-...to check the status... of files that have or have not been committed of course!
+to check if files have been changed or committed
 
 # 9 - What does the command 'git add .' do?
 add               Add file contents to the index
 the . just adds everything
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-push
+git push
