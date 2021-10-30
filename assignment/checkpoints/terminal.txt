@@ -29,4 +29,4 @@ add               Add file contents to the index
 the . just adds everything
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push
+git push -u origin master
